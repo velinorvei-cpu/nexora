@@ -125,7 +125,7 @@ local function SendNexoraNotification(title, text, duration, icon)
                 duration,
                 iconId,
                 nil,
-                "dark"
+                "light"
             )
         end)
         if not ok then
